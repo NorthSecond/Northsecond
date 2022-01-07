@@ -2,7 +2,9 @@
 
 ## Brief introduction
 
-
+* Undergraduate in School of Software Engineering, Sun Yat-Sen University.
+* interested in CV
+* Still have a long way to go.
 
 <!--
 **Northsecond/Northsecond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
