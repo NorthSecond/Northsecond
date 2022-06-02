@@ -2,7 +2,7 @@
 
 ## Brief introduction
 
-* `https://yangyf83.github.io`
+* `https://northsecond.github.io`
 * Undergraduate in School of Software Engineering, Sun Yat-Sen University.
 * interested in CV
 * Still have a long way to go.
