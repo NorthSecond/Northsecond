@@ -8,9 +8,9 @@
 
 ## Contact information
 
-[E-mail](mailto:yangyf83@mail2.sysu.edu.cn): `yangyf83@mail2.sysu.edu.cn`
-[bilibili](https://space.bilibili.com/177147462)
-[Blog](https://northsecond.github.io):`https://northsecond.github.io`.
+* [E-mail](mailto:yangyf83@mail2.sysu.edu.cn): `yangyf83@mail2.sysu.edu.cn`
+* [bilibili](https://space.bilibili.com/177147462)
+* [Blog](https://northsecond.github.io):`https://northsecond.github.io`.
 
 --- 
 <p align="center">
