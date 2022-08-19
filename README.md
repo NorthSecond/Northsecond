@@ -3,7 +3,7 @@
 ## Brief introduction
 
 * Undergraduate in School of Software Engineering, Sun Yat-Sen University.
-* Rookie in the field of robust computer vision.
+* Rookie in the field of computer vision.
 * Still have a long way to go.
 
 ## Contact information
