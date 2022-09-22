@@ -3,7 +3,6 @@
 ## Brief introduction
 
 * Undergraduate in School of Software Engineering, Sun Yat-Sen University.
-* Rookie in the field of Trusted AI.
 * Still have a long way to go.
 
 ## Contact information
