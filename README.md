@@ -10,7 +10,7 @@
 * [E-mail](mailto:yangyf83@mail2.sysu.edu.cn): `yangyf83@mail2.sysu.edu.cn`
 * [bilibili](https://space.bilibili.com/177147462)：Nord_II
 * [Blog](https://northsecond.github.io):`https://northsecond.github.io`.
-* [CV](https://northsecond.github.io/CV):`https://northsecond.github.io/CV`.
+* [CV](https://yfyang.me):`https://yfyang.me`.
 
 --- 
 <p align="center">
