@@ -10,39 +10,25 @@
 * CV(Personal Homepage):[`https://yfyang.me`](https://yfyang.me)
 
 <p align="center">
-<table align="center">
-  <tr>
-    <th>
-        <a href="https://www.zhihu.com/people/nanguozhibei">
-            <img align="center" src="https://stats.justsong.cn/api/zhihu?username=nanguozhibei" />
-        </a>
-    </th>
-    <th>
-        <a href="https://space.bilibili.com/177147462">
-            <img align="center" src="https://stats.justsong.cn/api/bilibili/?id=177147462" />
-        </a>
-    </th>
-  </tr>
-</table>
+  <a href="https://www.zhihu.com/people/nanguozhibei">
+      <img width="400" align="center" src="https://stats.justsong.cn/api/zhihu?username=nanguozhibei" />
+  </a>
+  &emsp;
+  <a href="https://space.bilibili.com/177147462">
+      <img width="400" align="center" src="https://stats.justsong.cn/api/bilibili/?id=177147462" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<table align="center">
-  <tr>
-    <th>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=northsecond&show_icons=true&theme=buefy&count_private=true" />
-        </a>
-    </th>
-    <th>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=northsecond&hide=html,css&layout=compact" />
-        </a>
-    </th>
-  </tr>
-</table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=northsecond&show_icons=true&theme=buefy&count_private=true" />
+  </a>
+  &emsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="360" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=northsecond&hide=html,css&layout=compact" />
+  </a>
 </p>
 
 --- 
