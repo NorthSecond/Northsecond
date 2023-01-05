@@ -1,13 +1,13 @@
 <h2 align="center"> 人生难得是欢聚，唯有别离多。 </h2>
 
 <h4 align="center">  
-  <a href="mailto:yangyf83@aliyun.com">
+  <a href="mailto:yangyf83@aliyun.com/">
     E-mail
   </a> •
-  <a href="https://northsecond.github.io">
+  <a href="http://blog.yfyang.me/">
     Blog
   </a>•
-  <a href="https://yfyang.me">
+  <a href="https://yfyang.me/">
     CV
   </a>
 </h4>
