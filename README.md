@@ -1,6 +1,6 @@
 <h2 align="center"> 人生难得是欢聚，唯有别离多。 </h2>
 
-<h4 align="center">  
+<h3 align="center">  
   <a href="mailto:yangyf83@aliyun.com/">
     E-mail
   </a> •
@@ -10,7 +10,7 @@
   <a href="https://yfyang.me/">
     CV
   </a>
-</h4>
+</h3>
           
 <p align="center">
   <a href="#">
