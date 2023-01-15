@@ -1,15 +1,15 @@
-<h2 align="center"> 长夜雪满天&emsp;为吾披肩 </h2>
+<h2 align="center"> 真实自有千钧之力 </h2>
 
 <h3 align="center">  
-  <a href="mailto:yangyf83@aliyun.com/">
-    E-mail
+  <a href="https://yfyang.me/">
+    CV
   </a> •
   <a href="http://blog.yfyang.me/">
     Blog
-  </a>•
-  <a href="https://yfyang.me/">
-    CV
-  </a>
+  </a> •
+  <a href="mailto:yangyf83@aliyun.com/">
+    E-mail
+  </a> 
 </h3>
           
 <p align="center">
