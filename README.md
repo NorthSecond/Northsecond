@@ -1,4 +1,4 @@
-<h2 align="center"> 真实自有千钧之力 </h2>
+<h2 align="center"> 挫其锐，解其纷，和其光，同其尘；是谓玄同。 </h2>
 
 <h3 align="center">  
   <a href="https://yfyang.me/">
