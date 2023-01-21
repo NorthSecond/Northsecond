@@ -1,4 +1,4 @@
-<h2 align="center"> 挫其锐，解其纷，和其光，同其尘；是谓玄同。 </h2>
+<h2 align="center"> Had I not seen the sun </h2>
 
 <h3 align="center">  
   <a href="https://yfyang.me/">
