@@ -57,7 +57,7 @@ jobs:
           plugin_languages_analysis_timeout: 30
           plugin_languages_ignored: 'html, css, nasl, ruby'
           commits_authoring: NorthSecond, yangyf83, yangyf83@mail2.sysu.edu.cn, yangyf83@outlook.com, yangyf83@aliyun.com, zhefuzhishe@163.com
-          plugin_languages_recent_days: 255 # remove this line after 2023-06-01
+          plugin_languages_recent_days: 225 # remove this line after 2023-06-01
           
           plugin_rss: yes
           plugin_rss_source: http://blog.yfyang.me/feed.xml
