@@ -5,7 +5,7 @@
     CV
   </a> •
   <a href="http://blog.yfyang.me/">
-    Blog
+    Blog(in Chinese)
   </a> •
   <a href="mailto:yangyf83@aliyun.com/">
     E-mail
