@@ -53,8 +53,11 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_details: lines, percentage
+          plugin_languages_other: yes
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 10.5
+          plugin_languages_recent_load: 233
           plugin_languages_ignored: 'html, css, nasl, ruby'
           commits_authoring: NorthSecond, yangyf83, yangyf83@mail2.sysu.edu.cn, yangyf83@outlook.com, yangyf83@aliyun.com, zhefuzhishe@163.com
           plugin_languages_recent_days: 100 # remove this line after 2023-06-01
