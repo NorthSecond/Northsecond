@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.zhihu.com/people/nanguozhibei">
       <img width="400" align="center" src="https://stats.justsong.cn/api/zhihu?username=nanguozhibei" />
   </a>
@@ -30,7 +30,7 @@
   <a href="https://space.bilibili.com/177147462">
       <img width="400" align="center" src="https://stats.justsong.cn/api/bilibili/?id=177147462" />
   </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
