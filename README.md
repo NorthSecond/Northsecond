@@ -1,4 +1,4 @@
-<h2 align="center"> Had I not seen the sun </h2>
+<h2 align="center"> 萍水相逢，尽是他乡之客。 </h2>
 
 <h3 align="center">  
   <a href="https://yfyang.me/">
