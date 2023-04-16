@@ -1,4 +1,4 @@
-<h2 align="center"> 萍水相逢，尽是他乡之客。 </h2>
+<h2 align="center"> 挫其锐，解其纷，和其光，同其尘。 </h2>
 
 <h3 align="center">  
   <a href="https://yfyang.me/">
