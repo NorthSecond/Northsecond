@@ -1,4 +1,4 @@
-<h2 align="center"> 溯洄从之，道阻且长。 </h2>
+<h2 align="center"> 公无渡河，公竟渡河 </h2>
 
 <h3 align="center">  
   <a href="https://yfyang.me/">
