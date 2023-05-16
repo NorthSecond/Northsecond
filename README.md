@@ -1,4 +1,4 @@
-<h2 align="center"> 公无渡河，公竟渡河 </h2>
+<h2 align="center"> 人生不相见，动如参与商。 </h2>
 
 <h3 align="center">  
   <a href="https://yfyang.me/">
