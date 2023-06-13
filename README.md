@@ -1,4 +1,4 @@
-<h2 align="center"> 人生不相见，动如参与商。 </h2>
+<h2 align="center"> 文登虽稍远，百事可乐。 </h2>
 
 <h3 align="center">  
   <a href="https://yfyang.me/">
