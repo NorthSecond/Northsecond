@@ -1,4 +1,4 @@
-<h2 align="center"> 文登虽稍远，百事可乐。 </h2>
+<h2 align="center"> 萍水相逢，尽是他乡之客。 </h2>
 
 <h3 align="center">  
   <a href="https://yfyang.me/">
@@ -7,7 +7,7 @@
   <a href="http://blog.yfyang.me/">
     Blog(in Chinese)
   </a> •
-  <a href="mailto:yangyf83@aliyun.com/">
+  <a href="mailto:yangyf83@foxmail.com/">
     E-mail
   </a> 
 </h3>
