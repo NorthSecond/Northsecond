@@ -4,11 +4,11 @@
   <a href="https://yfyang.me/">
     CV
   </a> •
-  <a href="https://calendly.com/yangyf83/30min">
+<!--   <a href="https://calendly.com/yangyf83/30min">
     Calendly
-  </a> •
+  </a> • -->
   <a href="http://blog.yfyang.me/">
-    Blog(in Chinese)
+    Blog
   </a> •
   <a href="mailto:yangyf83@foxmail.com/">
     E-mail
