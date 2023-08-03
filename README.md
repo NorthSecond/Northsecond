@@ -2,13 +2,13 @@
 
 <h3 align="center">  
   <a href="https://yfyang.me/">
-    CV
-  </a> •
-  <a href="https://calendly.com/yangyf83/">
-    Calendly
+    HomePage
   </a> •
   <a href="http://blog.yfyang.me/">
     Blog
+  </a> •
+    <a href="https://calendly.com/yangyf83/">
+    Calendly
   </a> •
   <a href="mailto:yangyf83@foxmail.com/">
     E-mail
