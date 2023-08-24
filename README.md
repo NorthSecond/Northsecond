@@ -1,4 +1,4 @@
-<h2 align="center"> 萍水相逢，尽是他乡之客。 </h2>
+<h2 align="center"> 关山难越。 </h2>
 
 <h3 align="center">  
   <a href="https://yfyang.me/">
@@ -6,10 +6,11 @@
   </a> •
   <a href="http://blog.yfyang.me/">
     Blog
-  </a> •
+  </a> 
+<!--   •
     <a href="https://calendly.com/yangyf83/">
     Calendly
-  </a> •
+  </a> • -->
   <a href="mailto:yangyf83@foxmail.com/">
     E-mail
   </a> 
