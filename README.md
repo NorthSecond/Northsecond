@@ -10,7 +10,8 @@
 <!--   •
     <a href="https://calendly.com/yangyf83/">
     Calendly
-  </a> • -->
+  </a>  -->
+  •
   <a href="mailto:yangyf83@foxmail.com/">
     E-mail
   </a> 
