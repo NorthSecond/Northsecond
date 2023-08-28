@@ -16,7 +16,11 @@
     E-mail
   </a> 
 </h3>
-          
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NorthSecond&style=flat-square&color=grey" />
+</p>
+  
 <p align="center">
   <a href="#">
     <img width="400" align="center" src="https://gist.githubusercontent.com/NorthSecond/454abf4052a73b5ecd1c15c322fd9585/raw/github-metrics.svg" />
