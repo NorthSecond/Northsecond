@@ -1,4 +1,4 @@
-<h2 align="center"> 关山难越 </h2>
+<h2 align="center"> 落子无悔，抉择本身便是向前。 </h2>
 
 <h3 align="center">  
   <a href="https://yfyang.me/">
