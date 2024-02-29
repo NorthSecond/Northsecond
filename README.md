@@ -1,4 +1,4 @@
-<h2 align="center" style="color:black"> NorthSecond </h2>
+<h2 align="center" style="color:black"> Per aspera ad astra. </h2>
 
 <h3 align="center">  
   <a href="https://yfyang.me/">
