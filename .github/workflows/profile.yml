@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   # Schedule updates (each 6 hour)
-  schedule: [{ cron: "0 */6 * * *" }]
+  schedule: [{ cron: "0 */8 * * *" }]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: { branches: ["master", "main"] }
@@ -61,7 +61,7 @@ jobs:
           # plugin_languages_analysis_timeout_repositories: 15
           # plugin_languages_recent_load: 888
           plugin_languages_ignored: >-
-            html, css, nasl, ruby, qmake, gnuplot, json
+            scss, html, css, ruby, gnuplot, json
           # commits_authoring: NorthSecond, yangyf83, yangyf83@mail2.sysu.edu.cn, yangyf83@outlook.com, yangyf83@aliyun.com, zhefuzhishe@163.com
           # plugin_languages_recent_days: 256 # remove this line after 2023-06-01
 
