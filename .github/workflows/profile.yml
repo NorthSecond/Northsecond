@@ -63,7 +63,7 @@ jobs:
           plugin_languages_ignored: >-
             scss, html, css, ruby, gnuplot, json
           commits_authoring: NorthSecond, yangyf83, yangyf, yfyang, yangyf83@mail2.sysu.edu.cn, yangyf83@outlook.com, yangyf83@aliyun.com, yangyf83@foxmail.com
-          plugin_languages_recent_days: 400
+          plugin_languages_recent_days: 365
 
           plugin_rss: yes
           plugin_rss_source: http://blog.yfyang.me/feed.xml
