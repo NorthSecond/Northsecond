@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=NorthSecond&style=flat-square&color=grey" />
 </p>
 
-#### 我正在寻找 27 届关于「AI Infra / 分布式系统优化 / 高性能计算」相关的暑期实习机会，如果您有相关机会，非常欢迎联系我！（我的个人简历[pdf链接](https://yfyang.me/assets/pdf/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf) ）
+#### 我正在寻找 27 届关于「AI Infra / 分布式系统优化 / 高性能计算」相关的秋季校园招聘机会，如果您有相关机会，非常欢迎联系我！（我的个人简历[pdf链接](https://yfyang.me/assets/pdf/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf) ）
 
   
 <p align="center">
